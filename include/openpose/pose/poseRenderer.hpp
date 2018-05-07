@@ -3,6 +3,7 @@
 
 #include <openpose/core/common.hpp>
 #include <openpose/pose/enumClasses.hpp>
+#include <map>
 
 namespace op
 {
