@@ -1,0 +1,4 @@
+[submodule "3rdparty/caffe"]
+	path = 3rdparty/caffe
+	url = https://github.com/jokravit/caffe
+	branch = master
